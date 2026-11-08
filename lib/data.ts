@@ -10,9 +10,9 @@ export const profile = {
 };
 export const stats = [
   { label: "Years of Experience", value: "2+" },
-  { label: "Projects Completed", value: "0" },
+  // { label: "Projects Completed", value: "0" },
   { label: "Technologies Used", value: "20+" },
-  { label: "Certifications", value: "0" },
+  // { label: "Certifications", value: "0" },
 ]; // editable
 export const skills: Record<string, string[]> = {
   Frontend: [

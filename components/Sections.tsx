@@ -342,9 +342,9 @@ export function Contact() {
                 viewBox="0 0 24 24"
                 fill="none"
                 stroke="#ffffff"
-                stroke-width="1.8"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeWidth="1.8"
+                strokeLinecap="round"
+                strokeLinejoin="round"
               >
                 <path d="M20.5 11.5a8.5 8.5 0 0 1-12.6 7.4L3 20l1.2-4.6A8.5 8.5 0 1 1 20.5 11.5Z" />
                 <path d="M8.5 8.5c.3-.7.6-.7 1-.7h.5c.2 0 .4.2.5.5l.8 1.9c.1.2.1.4-.1.6l-.6.7c-.2.2-.2.4-.1.6.5.9 1.2 1.6 2.1 2.1.2.1.4.1.6-.1l.7-.6c.2-.2.4-.2.6-.1l1.9.8c.3.1.5.3.5.5v.5c0 .4 0 .7-.7 1-1 .5-2.3.3-4.1-.6-1.8-.9-3.3-2.4-4.2-4.2-.9-1.8-1.1-3.1-.4-4.1Z" />
@@ -364,9 +364,9 @@ export function Contact() {
                 viewBox="0 0 24 24"
                 fill="none"
                 stroke="#ffffff"
-                stroke-width="1.8"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeWidth="1.8"
+                strokeLinecap="round"
+                strokeLinejoin="round"
               >
                 <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-7a6 6 0 0 1 6-6Z" />
                 <rect x="2" y="9" width="4" height="12" />
